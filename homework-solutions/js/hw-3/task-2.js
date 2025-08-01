@@ -4,7 +4,7 @@
 n + nn + nnn, где n не перемножаются, а конкатенируются
 
 */
-let n = +prompt();
+let n = 7;
 let strN = String(n);
 strN_2 = strN+strN
 strN_3 = strN+strN+strN
